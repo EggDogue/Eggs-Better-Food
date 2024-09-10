@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 33,
+  "experience": 0.10,
+  "ingredient": {
+    "item": "minecraft:pumpkin_seeds"
+  },
+  "result": {
+    "id": "betterfood:roasted_pumpkin_seed"
+  }
+}

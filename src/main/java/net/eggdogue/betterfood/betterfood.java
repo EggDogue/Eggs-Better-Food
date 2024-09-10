@@ -45,6 +45,7 @@ public class betterfood {
             event.accept(ModItems.COOKED_EGG);
             event.accept(ModItems.APPLE_PIE);
             event.accept(ModItems.BAKED_BEETROOT);
+            event.accept(ModItems.ROASTED_PUMPKIN_SEEDS);
 
         }
     }

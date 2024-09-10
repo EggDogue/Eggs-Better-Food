@@ -28,6 +28,11 @@ public class ModItems {
                     .food(ModFoodProperties.BAKED_BEETROOT)
                     .stacksTo(64)
             ));
+    public static final RegistryObject<Item> ROASTED_PUMPKIN_SEEDS = ITEMS.register("roasted_pumpkin_seed",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.ROASTED_PUMPKIN_SEEDS)
+                    .stacksTo(64)
+            ));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
