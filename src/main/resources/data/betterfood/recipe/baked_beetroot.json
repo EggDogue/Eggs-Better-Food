@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "group": "egg",
+  "ingredient": {
+    "item": "minecraft:beetroot"
+  },
+  "result": {
+    "count": 1,
+    "id": "betterfood:baked_beetroot"
+  }
+}

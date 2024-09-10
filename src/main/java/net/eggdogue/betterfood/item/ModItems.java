@@ -23,6 +23,11 @@ public class ModItems {
                     .food(ModFoodProperties.APPLE_PIE)
                     .stacksTo(64)
             ));
+    public static final RegistryObject<Item> BAKED_BEETROOT = ITEMS.register("baked_beetroot",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.BAKED_BEETROOT)
+                    .stacksTo(64)
+            ));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
