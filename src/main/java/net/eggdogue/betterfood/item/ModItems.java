@@ -15,6 +15,9 @@ public class ModItems {
     public static final RegistryObject<Item> COOKED_EGG = ITEMS.register("cooked_egg",
             ()-> new Item(new Item.Properties().food(ModFoodProperties.COOKED_EGG)));
 
+    public static final RegistryObject<Item> APPLE_PIE = ITEMS.register("apple_pie",
+            ()-> new Item(new Item.Properties().food(ModFoodProperties.APPLE_PIE)));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

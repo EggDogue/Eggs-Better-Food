@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "group": "egg",
+  "ingredient": {
+    "item": "minecraft:egg"
+  },
+  "result": {
+  "count": 1,
+  "id": "betterfood:cooked_egg"
+  }
+}

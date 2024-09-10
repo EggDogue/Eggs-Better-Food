@@ -48,6 +48,7 @@ public class betterfood {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.COOKED_EGG);
+            event.accept(ModItems.APPLE_PIE);
         }
     }
 

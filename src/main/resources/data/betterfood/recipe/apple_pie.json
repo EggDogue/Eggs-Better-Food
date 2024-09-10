@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:apple"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "SMS",
+    "WWW"
+  ],
+  "result": {
+    "count": 4,
+    "item": "betterfood:apple_pie"
+  }
+}
