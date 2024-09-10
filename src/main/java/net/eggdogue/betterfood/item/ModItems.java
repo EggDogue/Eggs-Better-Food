@@ -13,10 +13,16 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, betterfood.MOD_ID);
 
     public static final RegistryObject<Item> COOKED_EGG = ITEMS.register("cooked_egg",
-            ()-> new Item(new Item.Properties().food(ModFoodProperties.COOKED_EGG)));
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.COOKED_EGG)
+                    .stacksTo(16)
+            ));
 
     public static final RegistryObject<Item> APPLE_PIE = ITEMS.register("apple_pie",
-            ()-> new Item(new Item.Properties().food(ModFoodProperties.APPLE_PIE)));
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.APPLE_PIE)
+                    .stacksTo(64)
+            ));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
