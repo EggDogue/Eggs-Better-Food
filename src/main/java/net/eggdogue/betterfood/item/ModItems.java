@@ -38,6 +38,12 @@ public class ModItems {
                     .food(ModFoodProperties.BERRY_PIE)
                     .stacksTo(64)
             ));
+    public static final RegistryObject<Item> CURED_ROTTEN_FLESH = ITEMS.register("cured_rotten_flesh",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.CURED_ROTTEN_FLESH)
+                    .stacksTo(64)
+            ));
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

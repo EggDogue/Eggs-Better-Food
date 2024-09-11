@@ -47,7 +47,7 @@ public class betterfood {
             event.accept(ModItems.BAKED_BEETROOT);
             event.accept(ModItems.ROASTED_PUMPKIN_SEEDS);
             event.accept(ModItems.BERRY_PIE);
-
+            event.accept(ModItems.CURED_ROTTEN_FLESH);
         }
     }
 
