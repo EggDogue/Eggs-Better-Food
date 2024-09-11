@@ -33,6 +33,11 @@ public class ModItems {
                     .food(ModFoodProperties.ROASTED_PUMPKIN_SEEDS)
                     .stacksTo(64)
             ));
+    public static final RegistryObject<Item> BERRY_PIE = ITEMS.register("berry_pie",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.BERRY_PIE)
+                    .stacksTo(64)
+            ));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

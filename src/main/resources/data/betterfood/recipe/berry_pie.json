@@ -1,18 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "key": {
-    "A": {"item": "minecraft:apple"},
+    "A": {"item": "minecraft:glow_berries"},
+    "B": {"item": "minecraft:sweet_berries"},
     "S": {"item": "minecraft:sugar"},
     "M": {"item": "minecraft:egg"},
     "W": {"item": "minecraft:wheat"}
   },
   "pattern": [
-    "AAA",
+    "BAB",
     "SMS",
     "WWW"
   ],
   "result": {
-    "id": "betterfood:apple_pie",
+    "id": "betterfood:berry_pie",
     "count": 1
   }
 }
