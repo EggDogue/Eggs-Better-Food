@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:cocoa_beans"},
+    {"item": "minecraft:glow_berries"},
+    {"item": "minecraft:sweet_berries"}
+  ],
+  "result": {
+    "id": "betterfood:berry_cookie",
+    "count": 3
+  }
+}

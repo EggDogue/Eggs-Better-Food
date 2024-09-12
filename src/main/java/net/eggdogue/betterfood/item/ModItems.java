@@ -59,6 +59,21 @@ public class ModItems {
                     .food(ModFoodProperties.COOKED_TROPICAL_FISH)
                     .stacksTo(64)
             ));
+    public static final RegistryObject<Item> BERRY_COOKIE = ITEMS.register("berry_cookie",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.BERRY_COOKIE)
+                    .stacksTo(64)
+            ));
+    public static final RegistryObject<Item> POTATO_SOUP = ITEMS.register("potato_soup",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.POTATO_SOUP)
+                    .stacksTo(1)
+            ));
+    public static final RegistryObject<Item> CARROT_SOUP = ITEMS.register("carrot_soup",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.CARROT_SOUP)
+                    .stacksTo(1)
+            ));
 
 
     public static void register(IEventBus eventBus) {

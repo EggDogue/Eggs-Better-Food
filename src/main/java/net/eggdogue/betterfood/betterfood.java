@@ -42,6 +42,8 @@ public class betterfood {
     }
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS) {
+            event.accept(ModItems.POTATO_SOUP);
+            event.accept(ModItems.CARROT_SOUP);
             event.accept(ModItems.CURED_ROTTEN_FLESH);
             event.accept(ModItems.COOKED_EGG);
             event.accept(ModItems.COOKED_BAMBOO);
@@ -50,7 +52,7 @@ public class betterfood {
             event.accept(ModItems.BAKED_BEETROOT);
             event.accept(ModItems.ROASTED_PUMPKIN_SEEDS);
             event.accept(ModItems.APPLE_PIE);
-            event.accept(ModItems.BERRY_PIE);
+            event.accept(ModItems.BERRY_COOKIE);
         }
     }
 
