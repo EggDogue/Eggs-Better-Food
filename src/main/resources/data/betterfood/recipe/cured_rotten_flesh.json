@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {"item": "minecraft:gold_ingot"},
-    "B": {"item": "minecraft:bone_meal"},
+    "B": {"item": "minecraft:golden_apple"},
     "S": {"item": "minecraft:rotten_flesh"}
   },
   "pattern": [

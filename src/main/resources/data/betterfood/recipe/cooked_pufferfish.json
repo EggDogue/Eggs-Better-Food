@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 800,
+  "experience": 0.5,
+  "group": "egg",
+  "ingredient": {
+    "item": "minecraft:pufferfish"
+  },
+  "result": {
+    "count": 1,
+    "id": "betterfood:cooked_pufferfish"
+  }
+}

@@ -1,10 +1,10 @@
 {
   "type": "minecraft:campfire_cooking",
   "category": "food",
-  "cookingtime": 600,
+  "cookingtime": 400,
   "experience": 0.35,
   "ingredient": {
-    "item": "minecraft:beef"
+    "item": "minecraft:egg"
   },
   "result": {
     "id": "betterfood:cooked_egg"

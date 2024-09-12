@@ -1,13 +1,13 @@
 {
   "type": "minecraft:smelting",
-  "cookingtime": 100,
+  "cookingtime": 300,
   "experience": 0.35,
   "group": "egg",
   "ingredient": {
-    "item": "minecraft:bamboo"
+    "item": "minecraft:tropical_fish"
   },
   "result": {
     "count": 1,
-    "id": "betterfood:cooked_bamboo"
+    "id": "betterfood:cooked_tropical_fish"
   }
 }

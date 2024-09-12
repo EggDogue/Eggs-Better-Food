@@ -3,6 +3,7 @@ package net.eggdogue.betterfood.item;
 import net.eggdogue.betterfood.ModFoodProperties;
 import net.eggdogue.betterfood.betterfood;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.Items;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -46,6 +47,16 @@ public class ModItems {
     public static final RegistryObject<Item> COOKED_BAMBOO = ITEMS.register("cooked_bamboo",
             () -> new Item(new Item.Properties()
                     .food(ModFoodProperties.COOKED_BAMBOO)
+                    .stacksTo(64)
+            ));
+    public static final RegistryObject<Item> COOKED_PUFFERFISH = ITEMS.register("cooked_pufferfish",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.COOKED_PUFFERFISH)
+                    .stacksTo(64)
+            ));
+    public static final RegistryObject<Item> COOKED_TROPICAL_FISH = ITEMS.register("cooked_tropical_fish",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.COOKED_TROPICAL_FISH)
                     .stacksTo(64)
             ));
 

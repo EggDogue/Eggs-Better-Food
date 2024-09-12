@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 400,
+  "experience": 0.5,
+  "ingredient": {
+    "item": "minecraft:pufferfish"
+  },
+  "result": {
+    "id": "betterfood:cooked_pufferfish"
+  }
+}
