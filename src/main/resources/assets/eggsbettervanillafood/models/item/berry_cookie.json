@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "betterfood:item/berry_pie"
+    "layer0": "eggsbettervanillafood:item/berry_cookie"
   }
 
 }

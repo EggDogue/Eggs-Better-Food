@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "betterfood:item/roasted_pumpkin_seed"
+    "layer0": "eggsbettervanillafood:item/cooked_bamboo"
   }
 
 }

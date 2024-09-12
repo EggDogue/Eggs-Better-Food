@@ -1,4 +1,4 @@
-package net.eggdogue.betterfood;
+package net.eggdogue.eggsbettervanillafood;
 
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;
@@ -20,12 +20,6 @@ public class ModFoodProperties {
         return new MobEffectInstance(MobEffects.REGENERATION, 200, 0);
     }
 
-    public static final DeferredRegister<Item> ITEMS =
-            DeferredRegister.create(ForgeRegistries.ITEMS, "your_mod_id");
-
-    public static Item.Properties bowlFoodItem(FoodProperties food) {
-        return new Item.Properties().food(food).stacksTo(16);
-    }
     public static final FoodProperties COOKED_EGG = new FoodProperties.Builder().nutrition(4).saturationModifier(0.25f).build();
     public static final FoodProperties APPLE_PIE = new FoodProperties.Builder().nutrition(10).saturationModifier(0.75f).build();
     public static final FoodProperties BERRY_PIE = new FoodProperties.Builder().nutrition(10).saturationModifier(0.75f).build();

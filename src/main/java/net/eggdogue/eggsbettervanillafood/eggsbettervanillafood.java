@@ -1,7 +1,7 @@
-package net.eggdogue.betterfood;
+package net.eggdogue.eggsbettervanillafood;
 
 import com.mojang.logging.LogUtils;
-import net.eggdogue.betterfood.item.ModItems;
+import net.eggdogue.eggsbettervanillafood.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -17,14 +17,14 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
-@Mod(betterfood.MOD_ID)
-public class betterfood {
+@Mod(eggsbettervanillafood.MOD_ID)
+public class eggsbettervanillafood {
 
-    public static final String MOD_ID = "betterfood";
+    public static final String MOD_ID = "eggsbettervanillafood";
 
     public static final Logger LOGGER = LogUtils.getLogger();
 
-    public betterfood() {
+    public eggsbettervanillafood() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         modEventBus.addListener(this::commonSetup);
 
@@ -52,6 +52,7 @@ public class betterfood {
             event.accept(ModItems.BAKED_BEETROOT);
             event.accept(ModItems.ROASTED_PUMPKIN_SEEDS);
             event.accept(ModItems.APPLE_PIE);
+            event.accept(ModItems.BERRY_PIE);
             event.accept(ModItems.BERRY_COOKIE);
         }
     }

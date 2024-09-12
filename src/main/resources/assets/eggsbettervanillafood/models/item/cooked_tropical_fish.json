@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "betterfood:item/baked_beetroot"
+    "layer0": "eggsbettervanillafood:item/cooked_tropical_fish"
   }
 
 }
