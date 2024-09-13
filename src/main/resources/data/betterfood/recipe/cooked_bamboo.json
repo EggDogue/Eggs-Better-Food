@@ -1,8 +1,8 @@
 {
   "type": "minecraft:smelting",
-  "cookingtime": 100,
-  "experience": 0.35,
-  "group": "egg",
+  "category": "food",
+  "cookingtime": 50,
+  "experience": 0.10,
   "ingredient": {
     "item": "minecraft:bamboo"
   },

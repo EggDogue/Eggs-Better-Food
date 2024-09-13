@@ -1,12 +1,12 @@
 {
   "type": "minecraft:smoking",
   "category": "food",
-  "cookingtime": 400,
+  "cookingtime": 100,
   "experience": 0.35,
   "ingredient": {
-    "item": "minecraft:pufferfish"
+    "item": "minecraft:apple"
   },
   "result": {
-    "id": "eggsbettervanillafood:cooked_pufferfish"
+    "id": "eggsbettervanillafood:baked_apple"
   }
 }

@@ -1,16 +1,11 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "A": {"item": "minecraft:glow_berries"},
-    "B": {"item": "minecraft:sweet_berries"},
-    "S": {"item": "minecraft:sugar"},
-    "M": {"item": "minecraft:egg"},
-    "W": {"item": "minecraft:wheat"}
-  },
-  "pattern": [
-    "BAB",
-    "SMS",
-    "WWW"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:glow_berries"},
+    {"item": "minecraft:sweet_berries"},
+    {"item": "minecraft:sugar"},
+    {"item": "minecraft:egg"}
+
   ],
   "result": {
     "id": "eggsbettervanillafood:berry_pie",

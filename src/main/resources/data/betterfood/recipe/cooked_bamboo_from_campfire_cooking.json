@@ -1,8 +1,8 @@
 {
   "type": "minecraft:campfire_cooking",
   "category": "food",
-  "cookingtime": 200,
-  "experience": 0.35,
+  "cookingtime": 100,
+  "experience": 0.10,
   "ingredient": {
     "item": "minecraft:bamboo"
   },

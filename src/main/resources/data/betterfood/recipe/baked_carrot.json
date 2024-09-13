@@ -2,12 +2,12 @@
   "type": "minecraft:smelting",
   "cookingtime": 200,
   "experience": 0.35,
-  "group": "egg",
+  "category": "food",
   "ingredient": {
-    "item": "minecraft:tropical_fish"
+    "item": "minecraft:carrot"
   },
   "result": {
     "count": 1,
-    "id": "eggsbettervanillafood:cooked_tropical_fish"
+    "id": "eggsbettervanillafood:baked_carrot"
   }
 }

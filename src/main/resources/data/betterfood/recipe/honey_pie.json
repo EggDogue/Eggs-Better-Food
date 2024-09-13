@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    {"item": "minecraft:apple"},
+    {"item": "minecraft:honeycomb_block"},
     {"item": "minecraft:sugar"},
     {"item": "minecraft:egg"}
 
   ],
   "result": {
-    "id": "eggsbettervanillafood:apple_pie",
+    "id": "eggsbettervanillafood:honey_pie",
     "count": 1
   }
 }

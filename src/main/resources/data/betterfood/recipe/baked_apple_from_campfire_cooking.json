@@ -1,4 +1,4 @@
-    {
+{
   "type": "minecraft:campfire_cooking",
   "category": "food",
   "cookingtime": 600,
@@ -7,6 +7,6 @@
     "item": "minecraft:beetroot"
   },
   "result": {
-    "id": "eggsbettervanillafood:baked_beetroot"
+    "id": "eggsbettervanillafood:cooked_beetroot"
   }
 }

@@ -74,8 +74,21 @@ public class ModItems {
                     .food(ModFoodProperties.CARROT_SOUP)
                     .stacksTo(1)
             ));
-
-
+    public static final RegistryObject<Item> BAKED_CARROT = ITEMS.register("baked_carrot",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.BAKED_CARROT)
+                    .stacksTo(64)
+            ));
+    public static final RegistryObject<Item> BAKED_APPLE = ITEMS.register("baked_apple",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.BAKED_APPLE)
+                    .stacksTo(64)
+            ));
+    public static final RegistryObject<Item> HONEY_PIE = ITEMS.register("honey_pie",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.HONEY_PIE)
+                    .stacksTo(64)
+            ));
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

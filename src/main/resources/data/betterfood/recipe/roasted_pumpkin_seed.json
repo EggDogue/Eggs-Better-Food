@@ -1,6 +1,6 @@
 {
   "type": "minecraft:smelting",
-  "cookingtime": 66,
+  "cookingtime": 100,
   "experience": 0.10,
   "group": "egg",
   "ingredient": {

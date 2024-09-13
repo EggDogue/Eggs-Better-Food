@@ -1,13 +1,13 @@
 {
   "type": "minecraft:smelting",
+  "category": "food",
   "cookingtime": 200,
   "experience": 0.35,
-  "group": "egg",
   "ingredient": {
-    "item": "minecraft:tropical_fish"
+    "item": "minecraft:apple"
   },
   "result": {
     "count": 1,
-    "id": "eggsbettervanillafood:cooked_tropical_fish"
+    "id": "eggsbettervanillafood:baked_apple"
   }
 }
