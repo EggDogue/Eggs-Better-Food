@@ -4,9 +4,9 @@
   "cookingtime": 600,
   "experience": 0.35,
   "ingredient": {
-    "item": "minecraft:beetroot"
+    "item": "minecraft:apple"
   },
   "result": {
-    "id": "eggsbettervanillafood:cooked_beetroot"
+    "id": "eggsbettervanillafood:baked_apple"
   }
 }

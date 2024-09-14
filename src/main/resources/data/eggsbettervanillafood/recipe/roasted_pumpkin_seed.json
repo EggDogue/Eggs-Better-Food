@@ -2,7 +2,7 @@
   "type": "minecraft:smelting",
   "cookingtime": 100,
   "experience": 0.10,
-  "group": "egg",
+  "group": "food",
   "ingredient": {
     "item": "minecraft:pumpkin_seeds"
   },

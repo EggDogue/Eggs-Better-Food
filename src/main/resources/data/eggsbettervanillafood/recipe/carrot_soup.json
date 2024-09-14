@@ -1,5 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "food",
   "ingredients": [
     {"item": "minecraft:bowl"},
     {"item": "minecraft:carrot"},

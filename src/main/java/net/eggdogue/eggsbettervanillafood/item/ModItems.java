@@ -74,6 +74,12 @@ public class ModItems {
                     .food(ModFoodProperties.CARROT_SOUP)
                     .stacksTo(1)
             ));
+
+    public static final RegistryObject<Item> PUMPKIN_SOUP = ITEMS.register("pumpkin_soup",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.PUMPKIN_SOUP)
+                    .stacksTo(1)
+            ));
     public static final RegistryObject<Item> BAKED_CARROT = ITEMS.register("baked_carrot",
             () -> new Item(new Item.Properties()
                     .food(ModFoodProperties.BAKED_CARROT)

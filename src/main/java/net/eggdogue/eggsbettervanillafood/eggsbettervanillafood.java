@@ -61,6 +61,7 @@ public class eggsbettervanillafood {
             event.accept(ModItems.HONEY_PIE);
             event.accept(ModItems.BERRY_COOKIE);
             event.accept(ModItems.POTATO_SOUP);
+            event.accept(ModItems.PUMPKIN_SOUP);
             event.accept(ModItems.CARROT_SOUP);
         }
     }

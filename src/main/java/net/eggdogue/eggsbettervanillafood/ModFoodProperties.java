@@ -22,6 +22,7 @@ public class ModFoodProperties {
     public static final FoodProperties BAKED_CARROT = new FoodProperties.Builder().nutrition(6).saturationModifier(0.5f).build();
     public static final FoodProperties BAKED_APPLE = new FoodProperties.Builder().nutrition(6).saturationModifier(0.5f).build();
     public static final FoodProperties POTATO_SOUP = new FoodProperties.Builder().nutrition(7).saturationModifier(0.3f).usingConvertsTo(Items.BOWL).build();
+    public static final FoodProperties PUMPKIN_SOUP = new FoodProperties.Builder().nutrition(7).saturationModifier(0.3f).usingConvertsTo(Items.BOWL).build();
     public static final FoodProperties CARROT_SOUP = new FoodProperties.Builder().nutrition(7).saturationModifier(0.3f).usingConvertsTo(Items.BOWL).build();
     public static final FoodProperties COOKED_EGG = new FoodProperties.Builder().nutrition(4).saturationModifier(0.4f).build();
     public static final FoodProperties COOKED_TROPICAL_FISH = new FoodProperties.Builder().nutrition(6).saturationModifier(0.7f).build();
