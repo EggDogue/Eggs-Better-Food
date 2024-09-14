@@ -16,6 +16,7 @@ public class ModFoodProperties {
         return new MobEffectInstance(MobEffects.REGENERATION, 200, 0);
     }
     public static final FoodProperties BERRY_COOKIE = new FoodProperties.Builder().nutrition(2).saturationModifier(0.1f).build();
+    public static final FoodProperties HONEY_COOKIE = new FoodProperties.Builder().nutrition(2).saturationModifier(0.1f).build();
     public static final FoodProperties COOKED_BAMBOO = new FoodProperties.Builder().nutrition(2).saturationModifier(0.2f).build();
     public static final FoodProperties ROASTED_PUMPKIN_SEEDS = new FoodProperties.Builder().nutrition(2).saturationModifier(0.3f).build();
     public static final FoodProperties BAKED_BEETROOT = new FoodProperties.Builder().nutrition(6).saturationModifier(0.5f).build();
@@ -24,6 +25,7 @@ public class ModFoodProperties {
     public static final FoodProperties POTATO_SOUP = new FoodProperties.Builder().nutrition(7).saturationModifier(0.3f).usingConvertsTo(Items.BOWL).build();
     public static final FoodProperties PUMPKIN_SOUP = new FoodProperties.Builder().nutrition(7).saturationModifier(0.3f).usingConvertsTo(Items.BOWL).build();
     public static final FoodProperties CARROT_SOUP = new FoodProperties.Builder().nutrition(7).saturationModifier(0.3f).usingConvertsTo(Items.BOWL).build();
+    public static final FoodProperties COOKED_MUSHROOM = new FoodProperties.Builder().nutrition(3).saturationModifier(0.1f).build();
     public static final FoodProperties COOKED_EGG = new FoodProperties.Builder().nutrition(4).saturationModifier(0.4f).build();
     public static final FoodProperties COOKED_TROPICAL_FISH = new FoodProperties.Builder().nutrition(6).saturationModifier(0.7f).build();
     public static final FoodProperties CURED_ROTTEN_FLESH = new FoodProperties.Builder().nutrition(8).saturationModifier(0.8f).effect(getAbsorptionEffect(), 1.0f).build();

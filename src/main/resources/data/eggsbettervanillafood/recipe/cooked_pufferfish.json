@@ -3,7 +3,6 @@
   "category": "food",
   "cookingtime": 800,
   "experience": 0.5,
-  "group": "egg",
   "ingredient": {
     "item": "minecraft:pufferfish"
   },

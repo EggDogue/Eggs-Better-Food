@@ -48,6 +48,7 @@ public class eggsbettervanillafood {
     private void addItemsToCreativeTab(BuildCreativeModeTabContentsEvent event) {
         if (event.getTab() == CUSTOM_TAB.get()) {
             event.accept(ModItems.CURED_ROTTEN_FLESH);
+            event.accept(ModItems.COOKED_MUSHROOM);
             event.accept(ModItems.COOKED_EGG);
             event.accept(ModItems.COOKED_BAMBOO);
             event.accept(ModItems.COOKED_PUFFERFISH);
@@ -61,6 +62,7 @@ public class eggsbettervanillafood {
             event.accept(ModItems.HONEY_PIE);
             event.accept(ModItems.POTATO_PIE);
             event.accept(ModItems.BERRY_COOKIE);
+            event.accept(ModItems.HONEY_COOKIE);
             event.accept(ModItems.POTATO_SOUP);
             event.accept(ModItems.PUMPKIN_SOUP);
             event.accept(ModItems.CARROT_SOUP);
