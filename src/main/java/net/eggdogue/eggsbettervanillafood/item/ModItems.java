@@ -95,6 +95,11 @@ public class ModItems {
                     .food(ModFoodProperties.HONEY_PIE)
                     .stacksTo(64)
             ));
+    public static final RegistryObject<Item> POTATO_PIE = ITEMS.register("potato_pie",
+            () -> new Item(new Item.Properties()
+                    .food(ModFoodProperties.POTATO_PIE)
+                    .stacksTo(64)
+            ));
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

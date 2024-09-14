@@ -31,4 +31,5 @@ public class ModFoodProperties {
     public static final FoodProperties APPLE_PIE = new FoodProperties.Builder().nutrition(8).saturationModifier(0.8f).build();
     public static final FoodProperties BERRY_PIE = new FoodProperties.Builder().nutrition(8).saturationModifier(0.8f).build();
     public static final FoodProperties HONEY_PIE = new FoodProperties.Builder().nutrition(8).saturationModifier(0.8f).build();
+    public static final FoodProperties POTATO_PIE = new FoodProperties.Builder().nutrition(8).saturationModifier(0.8f).build();
 }

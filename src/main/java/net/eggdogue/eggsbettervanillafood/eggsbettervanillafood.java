@@ -59,6 +59,7 @@ public class eggsbettervanillafood {
             event.accept(ModItems.APPLE_PIE);
             event.accept(ModItems.BERRY_PIE);
             event.accept(ModItems.HONEY_PIE);
+            event.accept(ModItems.POTATO_PIE);
             event.accept(ModItems.BERRY_COOKIE);
             event.accept(ModItems.POTATO_SOUP);
             event.accept(ModItems.PUMPKIN_SOUP);
