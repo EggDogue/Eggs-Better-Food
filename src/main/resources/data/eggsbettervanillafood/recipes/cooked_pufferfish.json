@@ -1,13 +1,10 @@
 {
   "type": "minecraft:smelting",
-  "category": "food",
-  "cookingtime": 800,
-  "experience": 0.5,
   "ingredient": {
     "item": "minecraft:pufferfish"
   },
-  "result": {
-    "count": 1,
-    "id": "eggsbettervanillafood:cooked_pufferfish"
+  "result": "eggsbettervanillafood:cooked_pufferfish",
+    "cookingtime": 800,
+    "experience": 0.5
   }
-}
+

@@ -1,15 +1,18 @@
+
 {
   "type": "minecraft:crafting_shapeless",
-  "category": "food",
   "ingredients": [
-    {"item": "minecraft:glow_berries"},
-    {"item": "minecraft:sweet_berries"},
-    {"item": "minecraft:sugar"},
-    {"item": "minecraft:egg"}
-
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    }
   ],
   "result": {
-    "id": "eggsbettervanillafood:berry_pie",
-    "count": 1
+    "item": "eggsbettervanillafood:apple_pie"
   }
 }

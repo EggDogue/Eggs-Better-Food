@@ -1,12 +1,9 @@
 {
   "type": "minecraft:campfire_cooking",
-  "category": "food",
-  "cookingtime": 600,
-  "experience": 0.35,
   "ingredient": {
     "item": "minecraft:tropical_fish"
   },
-  "result": {
-    "id": "eggsbettervanillafood:cooked_tropical_fish"
+  "result": "eggsbettervanillafood:cooked_tropical_fish",
+    "cookingtime": 600,
+    "experience": 0.35
   }
-}

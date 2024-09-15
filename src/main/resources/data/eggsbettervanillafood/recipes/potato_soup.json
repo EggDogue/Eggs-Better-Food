@@ -10,7 +10,7 @@
     {"item": "minecraft:potato"}
   ],
   "result": {
-    "id": "eggsbettervanillafood:potato_soup",
+    "item": "eggsbettervanillafood:potato_soup",
     "count": 1
   }
 }

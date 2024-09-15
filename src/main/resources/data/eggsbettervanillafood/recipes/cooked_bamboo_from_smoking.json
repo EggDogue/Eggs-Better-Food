@@ -1,12 +1,10 @@
 {
   "type": "minecraft:smoking",
-  "category": "food",
-  "cookingtime": 20,
-  "experience": 0.10,
   "ingredient": {
     "item": "minecraft:bamboo"
   },
-  "result": {
-    "id": "eggsbettervanillafood:cooked_bamboo"
+  "result": "eggsbettervanillafood:cooked_bamboo",
+    "cookingtime": 20,
+    "experience": 0.10
   }
 }

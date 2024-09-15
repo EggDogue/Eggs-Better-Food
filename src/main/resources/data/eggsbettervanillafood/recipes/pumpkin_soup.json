@@ -5,7 +5,7 @@
     {"item": "minecraft:pumpkin"}
   ],
   "result": {
-    "id": "eggsbettervanillafood:pumpkin_soup",
+    "item": "eggsbettervanillafood:pumpkin_soup",
     "count": 1
   }
 }

@@ -1,13 +1,10 @@
 {
   "type": "minecraft:smelting",
-  "category": "food",
-  "cookingtime": 50,
-  "experience": 0.10,
   "ingredient": {
     "item": "minecraft:bamboo"
   },
-  "result": {
-    "count": 1,
-    "id": "eggsbettervanillafood:cooked_bamboo"
+  "result": "eggsbettervanillafood:cooked_bamboo",
+    "cookingtime": 50,
+    "experience": 0.10
   }
-}
+

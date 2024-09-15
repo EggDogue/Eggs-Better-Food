@@ -6,7 +6,7 @@
     {"item": "minecraft:honey_bottle"}
   ],
   "result": {
-    "id": "eggsbettervanillafood:honey_cookie",
+    "item": "eggsbettervanillafood:honey_cookie",
     "count": 3
   }
 }

@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "category": "food",
   "ingredients": [
     {"item": "minecraft:cocoa_beans"},
-    {"item": "minecraft:glow_berries"},
+    {"item": "minecraft:sugar"},
     {"item": "minecraft:sweet_berries"}
   ],
   "result": {
-    "id": "eggsbettervanillafood:berry_cookie",
+    "item": "eggsbettervanillafood:berry_cookie",
     "count": 3
   }
-}
+  }
+

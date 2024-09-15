@@ -1,12 +1,9 @@
     {
   "type": "minecraft:campfire_cooking",
-  "category": "food",
-  "cookingtime": 600,
-  "experience": 0.35,
   "ingredient": {
     "item": "minecraft:beetroot"
   },
-  "result": {
-    "id": "eggsbettervanillafood:baked_beetroot"
+  "result": "eggsbettervanillafood:baked_beetroot",
+    "cookingtime": 600,
+    "experience": 0.35
   }
-}

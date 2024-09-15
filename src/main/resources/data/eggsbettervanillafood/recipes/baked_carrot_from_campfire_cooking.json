@@ -1,12 +1,9 @@
 {
   "type": "minecraft:campfire_cooking",
-  "category": "food",
-  "cookingtime": 600,
-  "experience": 0.35,
   "ingredient": {
     "item": "minecraft:carrot"
   },
-  "result": {
-    "id": "eggsbettervanillafood:baked_carrot"
+  "result": "eggsbettervanillafood:baked_carrot",
+    "cookingtime": 600,
+    "experience": 0.35
   }
-}
