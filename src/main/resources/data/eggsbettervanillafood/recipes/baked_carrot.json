@@ -3,9 +3,8 @@
   "ingredient": {
     "item": "minecraft:carrot"
   },
-  "result": {
-    "id": "eggsbettervanillafood:baked_carrot",
+  "result": "eggsbettervanillafood:baked_carrot",
     "cookingtime": 200,
     "experience": 0.35
   }
-}
+
