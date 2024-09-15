@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:apple"
+  },
+  "result": "eggsbettervanillafood:baked_apple",
+  "cookingtime": 200,
+  "experience": 0.35
+}

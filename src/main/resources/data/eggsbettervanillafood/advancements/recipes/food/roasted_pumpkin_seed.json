@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_roasted_pumpkin_seed": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:pumpkin_seeds"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "eggsbettervanillafood:roasted_pumpkin_seed"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_roasted_pumpkin_seed"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "eggsbettervanillafood:roasted_pumpkin_seed"
+    ]
+  }
+}

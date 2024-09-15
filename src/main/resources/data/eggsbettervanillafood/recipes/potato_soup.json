@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:bowl"},
+    {"item": "minecraft:potato"},
+    {"item": "minecraft:potato"},
+    {"item": "minecraft:potato"},
+    {"item": "minecraft:potato"},
+    {"item": "minecraft:potato"},
+    {"item": "minecraft:potato"}
+  ],
+  "result": {
+    "id": "eggsbettervanillafood:potato_soup",
+    "count": 1
+  }
+}
