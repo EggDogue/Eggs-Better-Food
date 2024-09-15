@@ -1,6 +1,6 @@
 ## Egg's better food ##
 
-This si the current development of the 1.16.5 version, it does nto ahve all features impkemented yet.
+This is the current development of the 1.16.5 version, it does not have all features implemented yet.
 
 This mod enhances the Minecraft food experience by expanding the food recipes with new items like "Cooked Beetroot" and "Cured Rotten Flesh." It is designed to maintain the classic vanilla feel while introducing additional variety to the existing food options. The mod also includes corresponding recipe advancements for each new item.
 
