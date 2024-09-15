@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "minecraft:brown_mushroom"
+            "item": "minecraft:brown_mushroom"
           }
         ]
       },
