@@ -12,7 +12,13 @@
       "item": "minecraft:gold_ingot"
     },
     {
+      "item": "minecraft:gold_ingot"
+    },
+    {
       "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
     },
     {
       "item": "minecraft:rotten_flesh"
@@ -25,7 +31,8 @@
     }
   ],
   "result": {
-    "item": "eggsbettervanillafood:cured_rotten_flesh"
+    "item": "eggsbettervanillafood:cured_rotten_flesh",
+    "count" : 16
   }
 }
 

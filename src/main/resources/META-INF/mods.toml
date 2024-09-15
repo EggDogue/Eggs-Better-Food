@@ -32,5 +32,5 @@ logoFile = "icon.png" #optional
 # A text field displayed in the mod UI
 authors = "EggDogue" #optional
 # The description text for the mod (multi line!) (#mandatory)
-description = '''
+description = '''This mod enhances the Minecraft food experience by expanding the food recipes with new items like "Cooked Beetroot" and "Cured Rotten Flesh." It is designed to maintain the classic vanilla feel while introducing additional variety to the existing food options. The mod also includes corresponding recipe advancements for each new item.
 '''

@@ -3,8 +3,10 @@ package net.eggdogue.eggsbettervanillafood;
 import net.minecraft.potion.EffectInstance;
 import net.minecraft.potion.Effects;
 import net.minecraft.item.Food;
+import net.minecraft.item.Item.Properties;
 import net.minecraft.item.Items;
 import net.minecraftforge.fml.common.Mod;
+import net.eggdogue.eggsbettervanillafood.item.ModItemGroup;
 
 @Mod.EventBusSubscriber
 public class ModFoodProperties {
