@@ -9,6 +9,9 @@ This mod enhances the Minecraft food experience by expanding the food recipes wi
 Your ideas for further improvements are welcome! Please share them in the Discussions tab.
 
 Updates will be released soon, with priority given to versions 1.19 and 1.16. Enjoy exploring the new food options and have fun!
+
+[Curseforge](https://www.curseforge.com/minecraft/mc-mods/eggs-better-vanilla-food)
+
 ## Display ##
 <div align="center">
   <img src="display/mod_tab.png" alt="Project Icon" width="" />
