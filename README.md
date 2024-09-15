@@ -2,9 +2,9 @@
   <img src="src/main/resources/assets/eggsbettervanillafood/textures/gui/icon.png" alt="Project Icon" width="100" />
 </div>
 
-## Egg's better vanilla food ##
+## Egg's better food ##
 
-This mod enhances the vanilla Minecraft experience by expanding the food recipes with new items like "Cooked Beetroot" and "Cured Rotten Flesh." It is designed to maintain the classic vanilla feel while introducing additional variety to the existing food options. The mod also includes corresponding recipe advancements for each new item.
+This mod enhances the Minecraft food experience by expanding the food recipes with new items like "Cooked Beetroot" and "Cured Rotten Flesh." It is designed to maintain the classic vanilla feel while introducing additional variety to the existing food options. The mod also includes corresponding recipe advancements for each new item.
 
 Your ideas for further improvements are welcome! Please share them in the Discussions tab.
 
