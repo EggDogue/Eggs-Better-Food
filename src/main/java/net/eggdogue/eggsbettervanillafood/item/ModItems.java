@@ -112,20 +112,20 @@ public class ModItems {
                     .stacksTo(64)
             ));
     public static final RegistryObject<Item> POTATO_SOUP = ITEMS.register("potato_soup",
-            () -> new Item(new Item.Properties()
+            () -> new SoupItem(new Item.Properties()
                     .food(ModFoodProperties.POTATO_SOUP)
                     .tab(ModItemGroup.EGGS_BETTER_FOOD_GROUP)
                     .stacksTo(1)
             ));
     public static final RegistryObject<Item> CARROT_SOUP = ITEMS.register("carrot_soup",
-            () -> new Item(new Item.Properties()
+            () -> new SoupItem(new Item.Properties()
                     .food(ModFoodProperties.CARROT_SOUP)
                     .tab(ModItemGroup.EGGS_BETTER_FOOD_GROUP)
                     .stacksTo(1)
             ));
 
     public static final RegistryObject<Item> PUMPKIN_SOUP = ITEMS.register("pumpkin_soup",
-            () -> new Item(new Item.Properties()
+            () -> new SoupItem(new Item.Properties()
                     .food(ModFoodProperties.PUMPKIN_SOUP)
                     .tab(ModItemGroup.EGGS_BETTER_FOOD_GROUP)
                     .stacksTo(1)
