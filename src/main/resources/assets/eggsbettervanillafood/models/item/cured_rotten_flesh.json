@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "eggsbettervanillafood:item/cured_rotten_flesh"
-  }
-
-}
