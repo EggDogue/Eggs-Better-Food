@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "tag": "minecraft:mushroom"
+  },
+  "result": "eggsbettervanillafood:cooked_mushroom",
+  "experience": 0.15,
+  "cookingtime": 50
+}

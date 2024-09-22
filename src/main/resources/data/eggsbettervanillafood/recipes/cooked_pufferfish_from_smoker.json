@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "tag": "minecraft:pufferfish"
+  },
+  "result": "eggsbettervanillafood:cooked_pufferfish",
+  "experience": 0.5,
+  "cookingtime": 400
+}

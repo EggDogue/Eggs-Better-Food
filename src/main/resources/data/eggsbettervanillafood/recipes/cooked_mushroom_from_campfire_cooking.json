@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "tag": "minecraft:mushroom"
+  },
+  "result": "eggsbettervanillafood:cooked_mushroom",
+  "experience": 0.15,
+  "cookingtime": 300
+}

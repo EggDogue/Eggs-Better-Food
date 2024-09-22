@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "minecraft:pumpkin_seeds"
+  },
+  "result": "eggsbettervanillafood:roasted_pumpkin_seed",
+  "experience": 0.10,
+  "cookingtime": 100
+}

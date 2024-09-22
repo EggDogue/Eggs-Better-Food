@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "tag": "minecraft:beetroot"
+  },
+  "result": "eggsbettervanillafood:baked_beetroot",
+  "experience": 0.35,
+  "cookingtime": 100
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "minecraft:carrot"
+  },
+  "result": "eggsbettervanillafood:baked_carrot",
+  "experience": 0.35,
+  "cookingtime": 200
+}

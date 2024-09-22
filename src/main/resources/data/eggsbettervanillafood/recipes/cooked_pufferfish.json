@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "minecraft:pufferfish"
+  },
+  "result": "eggsbettervanillafood:cooked_pufferfish",
+  "experience": 0.5,
+  "cookingtime": 800
+}

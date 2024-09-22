@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "tag": "minecraft:bamboo"
+  },
+  "result": "eggsbettervanillafood:cooked_bamboo",
+  "experience": 0.35,
+  "cookingtime": 100
+}

@@ -1,0 +1,10 @@
+
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "tag": "minecraft:beetroot"
+  },
+  "result": "eggsbettervanillafood:baked_beetroot",
+  "experience": 0.35,
+  "cookingtime": 600
+}
